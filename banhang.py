@@ -23,6 +23,5 @@ while True:
 print('TONG KET CUOI NGAY')
 for i in range(len(dic)):
     print('So luong', dsip[i], 'ban duoc la: ', soluong[i] )
-    print('Doanh thu',dsip[i], doanhthuiphone[i] )
+    print('Doanh thu',dsip[i],': ' doanhthuiphone[i] )
 print('TONG DOANH THU: ', sum(doanhthuiphone))
-
