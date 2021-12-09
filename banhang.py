@@ -16,7 +16,7 @@ while True:
      doanhthuiphone[dic[iphone]] += doanhthu
      #print(soluong, doanhthuiphone)
 
-     x = input('Nhap *done* neu muon ket thuc!, *enter* neu muon tiep tuc')
+     x = input('Nhap "done" neu muon ket thuc!, nhan Enter neu muon tiep tuc')
      if x == "done" :
          break
 
