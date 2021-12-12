@@ -1,3 +1,4 @@
+#Hoàng Thị Phương Nguyên_K214061743
 mon = ['toan', 'ly', 'hoa', 'sinh', 'su', 'dia', 'van', 'anh']
 tenkhoi = ['A', 'B', 'C', 'D']
 
