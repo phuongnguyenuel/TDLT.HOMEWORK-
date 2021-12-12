@@ -6,7 +6,7 @@ def nhapsinhvien():
         lstten.append(ten)
     return lstten
 def tinhdiemtbcua1sv(ten):
-    mon = ['TDLT', 'TCC']#, 'GTN', 'KTVM', 'LLNN', 'TTHCM']
+    mon = ['TDLT', 'TCC', 'GTN', 'KTVM', 'LLNN', 'TTHCM']
     STC = [3, 3, 2, 3, 3, 2]
     print("Diem cua ban ", ten)
     while True:
@@ -41,7 +41,7 @@ for i in lstten:
 ds_diem = sorted(ds_diem)[::-1]
 print(ds_diem)
 print('5 BAN DAT HOC BONG: ')
-for a in ds_diem[:3]:
+for a in ds_diem[:5]:
     print(a[0])
   
 
