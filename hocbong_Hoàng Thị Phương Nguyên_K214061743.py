@@ -1,3 +1,4 @@
+#Hoàng Thị Phương Nguyên_K214061743
 def nhapsinhvien():
     n = int(input("So sinh vien: "))
     lstten = []
