@@ -1,3 +1,4 @@
+#Hoàng Thị Phương Nguyên_K214061743
 dsip = ['iphone 13', 'iphone 13 pro', 'iphone 13 promax', 'iphone mini' ]
 gia = [10, 20, 30, 5]
 soluong = [0, 0, 0, 0]
