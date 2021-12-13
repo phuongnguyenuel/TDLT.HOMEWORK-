@@ -8,7 +8,7 @@ def tinhdoanhthu(sl, gia):
     doanhthu = sl*gia
     return doanhthu
 while True:
-     print('Nhap loai iphone:','0.',dsip[0],'1.',dsip[1],'2.', dsip[2],'3.', dsip[3])
+     print('Nhap loai iphone:','\n 0.',dsip[0],'\n 1.',dsip[1],'\n 2.', dsip[2],'\n 3.', dsip[3])
      iphone = int(input())
      sl = int(input('So luong mua: '))
      soluong[iphone] += sl
